@@ -39,6 +39,7 @@ h3 {
   width: 100%;
   max-width: 620px;
   display: block;
+  margin: 0 auto;
 }
 
 figcaption {
